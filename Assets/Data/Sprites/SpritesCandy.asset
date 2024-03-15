@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828c7fb7622dc3d479c23bb65d7d4ef9, type: 3}
+  m_Name: SpritesCandy
+  m_EditorClassIdentifier: 
+  _sprites:
+  - {fileID: -855298285791758126, guid: 00170a463a18d884dbc04517f874a55f, type: 3}
+  - {fileID: 6937817954938267909, guid: 8b6fdb652b1f19a4790362e9f17fa7f4, type: 3}
+  - {fileID: -6470460504253458178, guid: ff4c845bb79c85847bb8b9425462300b, type: 3}
+  - {fileID: -4178046375966092550, guid: b62dcd3da9584de4790bb0bf6ae5999b, type: 3}
+  - {fileID: 4130640169021434097, guid: 7eff4ffa1b2a62f4ea2fc9d2029bbd69, type: 3}
+  - {fileID: 3465286685962602723, guid: e3afc7921806be1459e58919906a098f, type: 3}
+  - {fileID: 7028616704906629411, guid: 5cda341c1891fb44780bb120cb3f4ade, type: 3}
+  - {fileID: 8288426215254106694, guid: 4549bbf93f609fd4ea16889cc6135250, type: 3}

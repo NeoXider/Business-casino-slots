@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd518837d5ec23a4caed312ce48e4802, type: 3}
+  m_Name: SpritesMultipliersDafualt
+  m_EditorClassIdentifier: 
+  _spritesMultiplier:
+    spriteMults:
+    - sprite: {fileID: -3452674533864869586, guid: 75faf62e6da094141993c563594abcc7, type: 3}
+      countM:
+      - count: 3
+        m: 1
+      - count: 4
+        m: 2
+      - count: 5
+        m: 3
+    - sprite: {fileID: -537891490997167320, guid: 04a570887bf4de64abcb8373fe9cd1e1, type: 3}
+      countM:
+      - count: 3
+        m: 4
+      - count: 4
+        m: 5
+      - count: 5
+        m: 6
+    - sprite: {fileID: -1325597913127178745, guid: 1ca66a09203e03349bbfb6f31cfa357c, type: 3}
+      countM:
+      - count: 3
+        m: 7
+      - count: 4
+        m: 8
+      - count: 5
+        m: 9
+    - sprite: {fileID: 8519240041551428443, guid: 4c41bd9d37b96ce48923995bbc2e8b50, type: 3}
+      countM:
+      - count: 3
+        m: 10
+      - count: 4
+        m: 11
+      - count: 5
+        m: 12

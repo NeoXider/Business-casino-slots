@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828c7fb7622dc3d479c23bb65d7d4ef9, type: 3}
+  m_Name: SpritesClassic
+  m_EditorClassIdentifier: 
+  _sprites:
+  - {fileID: -855298285791758126, guid: 9fa6a7551b39db44a903a1ed05b3c4f8, type: 3}
+  - {fileID: 6937817954938267909, guid: 7d17f148f1ba1054fac3df8b309402cf, type: 3}
+  - {fileID: -6470460504253458178, guid: 8855322a894014e479000aa143533c7c, type: 3}
+  - {fileID: -4178046375966092550, guid: 25a9ae89b5a9c3043ad736bd42c2ab73, type: 3}
+  - {fileID: 4130640169021434097, guid: 950a03f1eaf11bf45aa7a92b33ead437, type: 3}
+  - {fileID: 3465286685962602723, guid: a7957bd4edc83374ebf4010728942ee7, type: 3}
+  - {fileID: 7028616704906629411, guid: d1af4f4fb96abc149aa2f2c904d86a3d, type: 3}
+  - {fileID: 8288426215254106694, guid: b6c35ad4366349a42bb45a87bafd8677, type: 3}

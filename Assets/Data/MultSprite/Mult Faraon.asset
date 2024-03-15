@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd518837d5ec23a4caed312ce48e4802, type: 3}
+  m_Name: Mult Faraon
+  m_EditorClassIdentifier: 
+  _spritesMultiplier:
+    spriteMults:
+    - sprite: {fileID: -855298285791758126, guid: dd57f3b1f3fc25e47982a04b10e822d3, type: 3}
+      countM:
+      - count: 3
+        m: 1
+      - count: 4
+        m: 2
+      - count: 5
+        m: 3
+    - sprite: {fileID: -4178046375966092550, guid: f6d200679e6868445a6ef2a2af371778, type: 3}
+      countM:
+      - count: 3
+        m: 4
+      - count: 4
+        m: 5
+      - count: 5
+        m: 6
+    - sprite: {fileID: 4130640169021434097, guid: 24c8b09b99c84a64cbec58e3eea1f306, type: 3}
+      countM:
+      - count: 3
+        m: 7
+      - count: 4
+        m: 8
+      - count: 5
+        m: 9
+    - sprite: {fileID: 3465286685962602723, guid: 9a20af491823377429a1de29c28700f6, type: 3}
+      countM:
+      - count: 3
+        m: 10
+      - count: 4
+        m: 11
+      - count: 5
+        m: 12
+    - sprite: {fileID: -2820667115792004369, guid: 7251542d7b2bc5b46a4d7f77d6f63cb2, type: 3}
+      countM:
+      - count: 3
+        m: 13
+      - count: 4
+        m: 14
+      - count: 5
+        m: 15
+    - sprite: {fileID: 8288426215254106694, guid: 27c1d027afd91344ab9c7be6899b4de0, type: 3}
+      countM:
+      - count: 3
+        m: 16
+      - count: 4
+        m: 17
+      - count: 5
+        m: 18
+    - sprite: {fileID: 4113829005332862926, guid: 6365adce57530ac49a1e764a15c28a9f, type: 3}
+      countM:
+      - count: 3
+        m: 19
+      - count: 4
+        m: 20
+      - count: 5
+        m: 21
+    - sprite: {fileID: -5099292496197868168, guid: 7910d0cf7870c0d459dc889b70c83e40, type: 3}
+      countM:
+      - count: 3
+        m: 22
+      - count: 4
+        m: 23
+      - count: 5
+        m: 24
